@@ -8,7 +8,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/01.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/01.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Headphones</a>
                         <div class="star-rating"><span class="sr-label mr-1">4.7</span><i class="sr-star active" data-feather="star"></i></div>
@@ -30,7 +30,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/02.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/02.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Computers</a>
                         <div class="star-rating"><span class="sr-label mr-1">3.9</span><i class="sr-star active" data-feather="star"></i></div>
@@ -51,7 +51,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/11.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/11.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">TV, Video &amp; Audio</a></div>
                     <h3 class="product-card-title"><a href="shop-single-electronics.html">SONY Smart TV LED 49" Ultra HD 4K</a></h3><span class="text-muted">Out of stock</span>
@@ -69,7 +69,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="badge badge-danger rounded-0">Sale -40%</span><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/04.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="badge badge-danger rounded-0">Sale -40%</span><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/04.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Smart home</a>
                         <div class="star-rating"><span class="sr-label mr-1">4.2</span><i class="sr-star active" data-feather="star"></i></div>
@@ -91,7 +91,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/05.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/05.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Wearable electronics</a>
                         <div class="star-rating"><span class="sr-label mr-1">3.6</span><i class="sr-star active" data-feather="star"></i></div>
@@ -112,7 +112,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/06.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/06.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Smartphones</a>
                         <div class="star-rating"><span class="sr-label mr-1">4.5</span><i class="sr-star active" data-feather="star"></i></div>
@@ -133,7 +133,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="badge badge-success rounded-0">&starf; Top seller</span><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/07.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="badge badge-success rounded-0">&starf; Top seller</span><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/07.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Wearable electronics</a>
                         <div class="star-rating"><span class="sr-label mr-1">4.3</span><i class="sr-star active" data-feather="star"></i></div>
@@ -154,7 +154,7 @@
         <!-- Product-->
         <div class="col-lg-3 col-sm-4 col-6 border border-collapse">
             <div class="product-card">
-                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="img/shop/electronics/08.jpg" alt="Product"></div>
+                <div class="product-thumb"><a class="product-thumb-link" href="shop-single-electronics.html"></a><span class="product-wishlist-btn" data-toggle="tooltip" data-placement="left" title="Add to wishlist"><i data-feather="heart"></i></span><img src="<?php echo get_template_directory_uri() ?>/img/shop/electronics/08.jpg" alt="Product"></div>
                 <div class="product-card-body">
                     <div class="d-flex flex-wrap justify-content-between pb-1"><a class="product-meta" href="#">Computers</a></div>
                     <h3 class="product-card-title"><a href="shop-single-electronics.html">Acer R11 11.6" Convertible 2-in-1 HD Touchscreen (2019)</a></h3><span class="text-primary">$339.00</span>

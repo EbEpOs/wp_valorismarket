@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad0ad1b3-fde0-47f7-9c75-b3a364720281" name="Default Changelist" comment="" />
+    <list default="true" id="ad0ad1b3-fde0-47f7-9c75-b3a364720281" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/menu_sidebar_category.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/menu_sidebar_category.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +27,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="1176">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/header.php">
+        <entry file="file://$PROJECT_DIR$/../../../../starstel.cm/wp-content/themes/Divi/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
+            <state relative-caret-position="-169" />
           </provider>
         </entry>
       </file>
@@ -103,6 +115,7 @@
     <option name="width" value="400" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -162,12 +175,12 @@
       <workItem from="1572944395338" duration="127000" />
       <workItem from="1573038981884" duration="2522000" />
       <workItem from="1573041988523" duration="603000" />
-      <workItem from="1573043123337" duration="596000" />
+      <workItem from="1573043123337" duration="993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5778000" />
+    <option name="totallyTimeSpent" value="6175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -285,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="1176">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
@@ -321,8 +334,13 @@
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../starstel.cm/wp-content/themes/Divi/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169" />
       </provider>
     </entry>
   </component>

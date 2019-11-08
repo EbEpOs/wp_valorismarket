@@ -6,7 +6,7 @@
         <div class="collapse navbar-collapse" id="menu">
             <!-- language/currency switcher-->
             <div class="navbar-lang-switcher dropdown pr-2">
-                <div class="dropdown-toggle" data-toggle="dropdown"><img width="20" src="img/flags/en.png" alt="English"/><span>USD</span>
+                <div class="dropdown-toggle" data-toggle="dropdown"><img width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/en.png" alt="English"/><span>USD</span>
                 </div>
                 <ul class="dropdown-menu dropdown-menu-left">
                     <li class="dropdown-item">
@@ -17,11 +17,11 @@
                             <option value="usd">¥ JPY</option>
                         </select>
                     </li>
-                    <li><a class="dropdown-item" href="index.html"><img class="mr-2" width="20" src="img/flags/fr.png" alt="Français"/>Français</a></li>
+                    <li><a class="dropdown-item" href="index.html"><img class="mr-2" width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/fr.png" alt="Français"/>Français</a></li>
                     <li class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="img/flags/de.png" alt="Deutsch"/>Deutsch</a></li>
+                    <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/de.png" alt="Deutsch"/>Deutsch</a></li>
                     <li class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="img/flags/it.png" alt="Italiano"/>Italiano</a></li>
+                    <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/it.png" alt="Italiano"/>Italiano</a></li>
                 </ul>
             </div>
             <!-- Site menu-->
@@ -82,8 +82,8 @@
                 </li>
                 <li class="nav-item dropdown mega-dropdown active"><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Home</a>
                     <div class="dropdown-menu">
-                        <div class="dropdown-inner"><a class="dropdown-column text-decoration-0" href="home-apparel.html"><img class="d-block img-thumbnail mb-2" src="img/megamenu/home-apparel.jpg" alt="Home Apparel Shop">
-                                <div class="text-center font-weight-semibold text-dark">Home Apparel Shop</div></a><a class="dropdown-column text-decoration-0" href="home-electronics.html"><img class="d-block img-thumbnail mb-2" src="img/megamenu/home-electronics.jpg" alt="Home Electronics Store">
+                        <div class="dropdown-inner"><a class="dropdown-column text-decoration-0" href="home-apparel.html"><img class="d-block img-thumbnail mb-2" src="<?php echo get_template_directory_uri() ?>/img/megamenu/home-apparel.jpg" alt="Home Apparel Shop">
+                                <div class="text-center font-weight-semibold text-dark">Home Apparel Shop</div></a><a class="dropdown-column text-decoration-0" href="home-electronics.html"><img class="d-block img-thumbnail mb-2" src="<?php echo get_template_directory_uri() ?>/img/megamenu/home-electronics.jpg" alt="Home Electronics Store">
                                 <div class="text-center font-weight-semibold text-dark">Home Electronics Store</div></a></div>
                     </div>
                 </li>
@@ -120,7 +120,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="dropdown-column"><a class="d-block mx-auto" href="#" style="max-width: 228px;"><img class="d-block" src="img/megamenu/promo-banner.jpg" alt="Promo banner"></a></div>
+                            <div class="dropdown-column"><a class="d-block mx-auto" href="#" style="max-width: 228px;"><img class="d-block" src="<?php echo get_template_directory_uri() ?>/img/megamenu/promo-banner.jpg" alt="Promo banner"></a></div>
                         </div>
                     </div>
                 </li>

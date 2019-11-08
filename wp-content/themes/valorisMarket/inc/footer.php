@@ -114,9 +114,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 text-center text-sm-left">
-                    <div class="mb-4 mb-sm-0"><a class="d-inline-block" href="index.html"><img width="100" src="img/logo-light.png" alt="MStore"/></a>
+                    <div class="mb-4 mb-sm-0"><a class="d-inline-block" href="index.html"><img width="100" src="<?php echo get_template_directory_uri() ?>/img/logo-light.png" alt="MStore"/></a>
                         <div class="navbar-lang-switcher dropdown border-light mt-3 mb-0 mt-sm-0">
-                            <div class="dropdown-toggle text-white" data-toggle="dropdown"><img width="20" src="img/flags/en.png" alt="English"/><span>USD</span>
+                            <div class="dropdown-toggle text-white" data-toggle="dropdown"><img width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/en.png" alt="English"/><span>USD</span>
                             </div>
                             <ul class="dropdown-menu" style="width: 150px;">
                                 <li class="dropdown-item">
@@ -127,11 +127,11 @@
                                         <option value="usd">¥ JPY</option>
                                     </select>
                                 </li>
-                                <li><a class="dropdown-item" href="index.html"><img class="mr-2" width="20" src="img/flags/fr.png" alt="Français"/>Français</a></li>
+                                <li><a class="dropdown-item" href="index.html"><img class="mr-2" width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/fr.png" alt="Français"/>Français</a></li>
                                 <li class="dropdown-divider"></li>
-                                <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="img/flags/de.png" alt="Deutsch"/>Deutsch</a></li>
+                                <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/de.png" alt="Deutsch"/>Deutsch</a></li>
                                 <li class="dropdown-divider"></li>
-                                <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="img/flags/it.png" alt="Italiano"/>Italiano</a></li>
+                                <li><a class="dropdown-item" href="#"><img class="mr-2" width="20" src="<?php echo get_template_directory_uri() ?>/img/flags/it.png" alt="Italiano"/>Italiano</a></li>
                             </ul>
                         </div>
                     </div>
@@ -149,7 +149,7 @@
                     </ul>
                 </div>
                 <div class="col-sm-6 text-center text-sm-right">
-                    <div class="d-inline-block"><img width="187" src="img/cards.png" alt="Payment methods"/>
+                    <div class="d-inline-block"><img width="187" src="<?php echo get_template_directory_uri() ?>/img/cards.png" alt="Payment methods"/>
                     </div>
                 </div>
             </div>
@@ -160,5 +160,4 @@
     </div>
 </footer>
 <a class="scroll-to-top-btn" href="#"><i class="scroll-to-top-btn-icon" data-feather="chevron-up"></i></a>
-<script src="../js/vendor.min.js"></script>
-<script src="../js/theme.min.js"></script>
+

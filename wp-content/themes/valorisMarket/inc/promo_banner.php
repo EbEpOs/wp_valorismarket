@@ -11,7 +11,7 @@
                     <div class="countdown h4 mb-4" data-date-time="10/10/2020 12:00" data-labels="{&quot;label-day&quot;: &quot;d&quot;, &quot;label-hour&quot;: &quot;h&quot;, &quot;label-minute&quot;: &quot;m&quot;, &quot;label-second&quot;: &quot;s&quot;}"></div><a class="btn btn-primary" href="shop-style2-ls.html">View offers<i class="ml-2" data-feather="arrow-right"></i></a>
                 </div>
             </div>
-            <div class="col-md-7"><img class="mx-auto" src="../img/home/electronics/offer.jpg" alt="Promo banner"></div>
+            <div class="col-md-7"><img class="mx-auto" src="<?php echo get_template_directory_uri() ?>/img/home/electronics/offer.jpg" alt="Promo banner"></div>
         </div>
     </div>
 </section>

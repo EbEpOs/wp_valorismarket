@@ -11,28 +11,28 @@
             <div class="text-right"><a class="text-danger btn-sm pr-0" href="#"><i class="mr-1" data-feather="x" style="width: .85rem; height: .85rem;"></i>Clear cart</a></div>
             <div class="widget widget-featured-entries pt-3">
                 <div class="media">
-                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="img/shop/widget/07.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
+                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="<?php echo get_template_directory_uri() ?>/img/shop/widget/07.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
                     <div class="media-body">
                         <h6 class="featured-entry-title"><a href="#">Calvin Klein Jeans Keds</a></h6>
                         <p class="featured-entry-meta">1 <span class='text-muted'>x</span> $125.00</p>
                     </div>
                 </div>
                 <div class="media">
-                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="img/shop/widget/08.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
+                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="<?php echo get_template_directory_uri() ?>/img/shop/widget/08.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
                     <div class="media-body">
                         <h6 class="featured-entry-title"><a href="#">The North Face Hoodie</a></h6>
                         <p class="featured-entry-meta">1 <span class='text-muted'>x</span> $134.00</p>
                     </div>
                 </div>
                 <div class="media">
-                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="img/shop/widget/09.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
+                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="<?php echo get_template_directory_uri() ?>/img/shop/widget/09.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
                     <div class="media-body">
                         <h6 class="featured-entry-title"><a href="#">Medicine Chameleon Sunglasses</a></h6>
                         <p class="featured-entry-meta">1 <span class='text-muted'>x</span> $47.00</p>
                     </div>
                 </div>
                 <div class="media">
-                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="img/shop/widget/10.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
+                    <div class="featured-entry-thumb mr-3"><a href="#"><img src="<?php echo get_template_directory_uri() ?>/img/shop/widget/10.jpg" width="64" alt="Product thumb"></a><span class="item-remove-btn"><i data-feather="x"></i></span></div>
                     <div class="media-body">
                         <h6 class="featured-entry-title"><a href="#">Adidas Performance Hat</a></h6>
                         <p class="featured-entry-meta">1 <span class='text-muted'>x</span> $19.00</p>
